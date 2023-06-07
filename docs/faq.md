@@ -15,11 +15,11 @@ To install Python -> https://www.python.org
 To install Docker -> https://www.docker.com
 To install GitHubApp -> https://desktop.github.com
 
-If you have Ubuntu/Linux , you had to run the following to give Docker the required permission:
+If you have Ubuntu/Linux or Mac_OS, you had to run the following to give Docker the required permission:
  *sudo gpasswd -a $USER docker
  *newgrp docker
  
-If you have Mac_OS or Windows you don´t need any required permission.
+
 
 ## How to install the ColRev Project?
 After you install Python,Docker and GitHub you need install Python Package with the following command:
