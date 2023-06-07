@@ -17,8 +17,8 @@ Docker is a containerization tool used for spinning up isolated, reproducible ap
 
 If you have Ubuntu/Linux or Mac_OS, you had to run the following to give Docker the required permission:
 
-[//]: <> sudo gpasswd -a $USER docker
-[//]: <> newgrp docker
+    <!--sudo gpasswd -a $USER docker-->
+     <!---newgrp docker-->
  
 
 
