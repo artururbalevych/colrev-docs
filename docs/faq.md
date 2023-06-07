@@ -1,7 +1,7 @@
 --- 
 layout: default
 title: FAQ
-nav_order: 2
+nav_order: 4
 --- 
 
 #FAQ
@@ -18,10 +18,14 @@ To install GitHubApp -> https://desktop.github.com
 If you have Ubuntu/Linux , you had to run the following to give Docker the required permission:
  *sudo gpasswd -a $USER docker
  *newgrp docker
+ 
+If you have Mac_OS or Windows you don´t need any required permission.
 
 ## How to install the ColRev Project?
 After you install Python,Docker and GitHub you need install Python Package with the following command:
 
 *pip install colrev 
+
+
 
 
